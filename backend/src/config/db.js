@@ -2,9 +2,9 @@ import mysql2 from "mysql2/promise";
 
 export const pool = mysql2.createPool({
   host: "sql12.freesqldatabase.com",
-  user: "sql12802060",
-  password: "J6kZ4XX7KX",
-  database: "sql12802060",
+  user: "sql12802174",
+  password: "L5LDLkRHuL",
+  database: "sql12802174",
   waitForConnections: true,
   connectionLimit: 5,
   queueLimit: 0,
